@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.tempbodycss {
+  background: url(https://cdn.hswstatic.com/gif/celsius-convert.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.currbodycss {
+  background: url(https://newsradio.lk/wp-content/uploads/2023/05/Fed.US_.Dollar.USD_.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lenbodycss {
+  background: url(https://fusecontent.education.vic.gov.au/d21c8eb7-f2c1-48a7-a173-5a181611a67a/_d21c8eb7-f2c1-48a7-a173-5a181611a67a.preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.webodycss {
+  background: url(https://www.shutterstock.com/shutterstock/videos/1048369624/thumb/1.jpg?ip=x480);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-body{
+  text-align: center;
+  font-size: 26px;
+  color: #000;
+}
+
+.form-body .card{
+  background-color: #ffffffb9;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.navbarcss{
+  background-color: #eee;
+  padding: 10px;
+  font-size: large;
+}
+.nav-item .active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 10px;
+  text-align: center;
+ text-shadow: #000000 5px 5px 20px;
+}
+
+input[type="number"] {
+  width: 300px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.containera {
+  cursor: pointer;
+  
+}
+
+.containera input {
+  width: 15px;
+  height: 15px;
+}
+
+.checkmark {
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
